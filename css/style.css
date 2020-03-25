@@ -1224,13 +1224,14 @@ margin-right: 10px;
 .fullstory {
 	font-size: 16px;
     line-height: 150%;
-    text-align: justify;
+    text-align: center;
 }
 
 .fullstory h2 {
     margin: 0 auto;
     padding: 20px;
     font-size: 20px;
+    text-align: center;
 }
 
 .fullstory  li {
