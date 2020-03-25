@@ -1239,7 +1239,10 @@ margin-right: 10px;
 
 .fullstory table { 
 		width: 80%; 
-		border-collapse: collapse; 
+	        margin: 0 auto;
+                padding: 20px;
+		border-collapse: collapse;
+	
 	}
 	
 .fullstory tr:nth-of-type(odd) { 
