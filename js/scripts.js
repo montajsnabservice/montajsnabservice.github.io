@@ -70,8 +70,8 @@ $(function(){
         nextBtn: '.slider-button-next',
         fadeSpeed: 200,         // СЃРєРѕСЂРѕСЃС‚СЊ Р·Р°С‚СѓС…Р°РЅРёСЏ/РїРѕСЏРІР»РµРЅРёСЏ СЃР»Р°Р№РґР°
         autoPlay: true,         // Р°РІС‚РѕРїРµСЂРµР»РёСЃС‚С‹РІР°РЅРёРµ СЃР»Р°Р№РґРѕРІ (true/false)
-        autoPlayDelay: 5000,    // РІСЂРµРјСЏ РїРѕРєР°Р·Р° РІ СЃР»Р°Р№РґР°С… РІ РјРёР»Р»РёСЃРµРєСѓРЅРґР°С…
-        slideDelay: 200        
+        autoPlayDelay: 7000,    // РІСЂРµРјСЏ РїРѕРєР°Р·Р° РІ СЃР»Р°Р№РґР°С… РІ РјРёР»Р»РёСЃРµРєСѓРЅРґР°С…
+        slideDelay: 1000        
     });
 
     $(document.body).on('appear', '.skill-line-wrap > span', function(e, $affected) {
