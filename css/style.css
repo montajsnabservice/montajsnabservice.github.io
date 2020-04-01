@@ -222,13 +222,13 @@ p {
 }
 #header {
  position: relative;
- height: 96px;
+ height: 189px;
  z-index: 90;
 }
 #logo {
  display: block;
- height: 96px;
- line-height: 96px;
+ height: 189px;
+ line-height: 189px;
  float: left;
  
 }
